@@ -17,15 +17,25 @@ C++ is a general-purpose programming language created by Bjarne Stroustrup as an
 ## Syllabus
 
 Part 1: The 4 major principles that make an language Object Oriented. These are Encapsulation, Data Abstraction, Polymorphism and Inheritance. 
+
 Part 2: Algorithms using the simplest Linear Data Structure: Array, e.g. Sorting and a few others.
+
 Part 3: Various Linear Data Structures (DSes): 
+
       a)	List Abstract Data Structure (ADT) 
+      
       b)	Stack, Queue, and Deque ADTs in their Linked List implementations.
+      
 Part 4: Various (Non-)Linear Data Structures (DSes): 
+
       a)	Priority Queue ADT and its Binary Heap implementation.
+      
       b)	Table/Map (ADT) part 1 (unordered) and its Hash Table implementation.
+      
       c)	Table/Map (ADT) part 2 (ordered) and its Binary Search Tree (BST) implementation, inclusive of the balanced BST version: Adelson-Velskii Landis (AVL) Tree.
+      
       d)	Graph DS: Adjacency Matrix/Adjacency List/Edge List/Implicit Graph.
+      
 Part 5: Algorithms for Graph Traversal: Depth-First Search (DFS), Breadth-First Search (BFS), and various application scenarios.
 
 
