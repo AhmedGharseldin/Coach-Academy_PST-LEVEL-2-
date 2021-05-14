@@ -3,8 +3,6 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-int const N = 1e6+5;
-const int maxn = 2e5 + 10;
 
 int main()
 {
@@ -34,7 +32,7 @@ int main()
         }
     }
     int x = ans.size();
-//    cout << elements << " " << x;
+    
     if (!x){
         cout << 0 << endl;
         return 0;
